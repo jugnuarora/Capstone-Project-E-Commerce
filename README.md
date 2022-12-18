@@ -1,4 +1,4 @@
-# Capstone-Project---Brazilian-E-Commerce #
+# Capstone-Project---E-Commerce #
 Date: 19-Dec-2022
 Collaborators: Sara, Jugnu, Fahad, Eniola
 
