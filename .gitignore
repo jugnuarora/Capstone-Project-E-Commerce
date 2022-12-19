@@ -142,3 +142,5 @@ data/
 
 #DS_Store
 .DS_Store
+
+sql_functions.py
