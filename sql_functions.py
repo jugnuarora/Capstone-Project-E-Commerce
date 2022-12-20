@@ -18,7 +18,7 @@ def get_sql_config():
 import sqlalchemy
 import pandas as pd
 
-# Insert the get_data() function definition below - do this only when instructed in the notebook
+# Insert the get_data() function definition below
 def get_data(sql_query):
     ''' Connect to the PostgreSQL database server, run query and return data'''
     # get the connection configuration dictionary using the get_sql_config function
@@ -32,7 +32,7 @@ def get_data(sql_query):
         results = conn.execute(sql_query)
         print(results.fetchall()) 
 
-# Insert the get_dataframe() function definition below - do this only when instructed in the notebook
+# Insert the get_dataframe() function definition below
 def get_dataframe(sql_query):
     ''' 
     Connect to the PostgreSQL database server, 
