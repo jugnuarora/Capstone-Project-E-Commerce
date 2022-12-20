@@ -144,3 +144,4 @@ data/
 .DS_Store
 
 sql_functions.py
+.env_cp
