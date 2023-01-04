@@ -59,3 +59,33 @@
   What will do: Hypothesis, EDA
   
   Blockages: Mismatch in order ID and payments. Why payment done on 22 vouchers? 
+  
+# Day 3 21-Dec-2022 - 03-Jan-2023 #
+
+## Jugnu ##
+What did:ER Diagram, KPIs
+
+What will do: Finalize KPIs
+
+Blockages: Mismatch in city names from customer dataset and seller dataset to geolocation dataset. Brought everything in sync.
+
+## Sara ##
+What did:ER Diagram, KPIs
+
+What will do: Finalize KPIs
+
+Blockages: Mismatch in city names from customer dataset and seller dataset to geolocation dataset. Brought everything in sync.
+
+## Fahad ##
+What did: Metrics links
+
+What will do: Warm-up
+
+Blockages: N/A
+
+## Eniola ##
+What did: Hypothesis and KPIs
+
+What will do: Finalize KPIs
+
+Blockages: N/A
