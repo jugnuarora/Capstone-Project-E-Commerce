@@ -89,3 +89,32 @@ What did: Hypothesis and KPIs
 What will do: Finalize KPIs
 
 Blockages: N/A
+
+# Day 4 4-Jan-2023 #
+## Jugnu ##
+What did: Tableau and Brainstorming What, Why and How.
+
+What will do : What, Why and How
+
+Blockages: No direction found on the project
+
+## Sara ##
+What did: Tableau and Brainstorming What, Why and How.
+
+What will do : What, Why and How
+
+Blockages: No direction found on the project
+
+## Fahad ##
+What did: KPIs and Brainstorming What, Why and How.
+
+What will do : What, Why and How
+
+Blockages: No direction found on the project
+
+## Eniola ##
+What did: KPIs and Brainstorming What, Why and How.
+
+What will do : What, Why and How
+
+Blockages: No direction found on the project
