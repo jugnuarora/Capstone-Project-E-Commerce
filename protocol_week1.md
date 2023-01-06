@@ -118,3 +118,32 @@ What did: KPIs and Brainstorming What, Why and How.
 What will do : What, Why and How
 
 Blockages: No direction found on the project
+
+# Day 5 5-Jan-2023 #
+## Jugnu ##
+What did: Project Plan
+
+What will do: Hypothesis and KPIs
+
+Blockages: N/A
+
+## Sara ##
+What did: Project Plan
+
+What will do: Hypothesis and KPIs
+
+Blockages: N/A
+
+## Fahad ##
+What did: Project Plan
+
+What will do: Stakeholder Presentation
+
+Blockages: N/A
+
+## Eniola ##
+What did: Project Plan
+
+What will do: Hypothesis and KPIs
+
+Blockages: N/A
