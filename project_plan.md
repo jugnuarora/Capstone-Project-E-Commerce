@@ -5,9 +5,9 @@ Why?
     
 a. Introduction to topic
     
-   Olist as an example of e-commerce in Brasil
+   Olist as an example of e-commerce in Brazil
         
-   We want to have a look at how Olist is doing in Brasil by looking at a dataset containing data from 2016 to 2018 containing order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
+   We want to have a look at how Olist is doing in Brazil by looking at a dataset containing data from 2016 to 2018 containing order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
     
 b. Problem
     
@@ -61,7 +61,7 @@ vi. Dimensions/Measures
 vii. Data Quality (Outliers, null values etc.)
     
    * order_items_dataset: outliers in "price" and "freight_value" with extremely high values which is unusual
-   * order_payments_dataset: outliers in "payment_sequential" with high numbers (usually payed by voucher) which is unusual and "payment_value" with high and low numbers (0 or close to 0 which got payed) which is unusual
+   * order_payments_dataset: outliers in "payment_sequential" with high numbers (usually paid by voucher) which is unusual and "payment_value" with high and low numbers (0 or close to 0 which got paid) which is unusual
    * orders_dataset: some null-values but negligible, estimated delivery dates are high
    * products_dataset: high values in weight which is unusual regarding the product category (e.g. health_beauty)
     
