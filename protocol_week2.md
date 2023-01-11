@@ -57,3 +57,33 @@
   What will do: KPIs
   
   Blockages: N/A
+  
+# Day 8 11-Jan-2023 #
+
+## Jugnu: ##
+  What did: EDA
+  
+  What will do: EDA
+  
+  Blockages: There are some absurd values which needs cleaning
+  
+## Sara: ##
+  What did: Business Model of Olist and Data Cleaning
+  
+  What will do: KPI Tree
+  
+  Blockages: N/A
+  
+## Fahad: ##
+  What did: Business Model of Olist
+  
+  What will do: KPIs
+  
+  Blockages: N/A
+  
+## Eniola: ##
+  What did: Data Cleaning and Descriptive Statistics
+  
+  What will do: KPI Tree
+  
+  Blockages: N/A
