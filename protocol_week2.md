@@ -87,3 +87,34 @@
   What will do: KPI Tree
   
   Blockages: N/A
+  
+# Day 9 12-Jan-2023 #
+
+## Jugnu: ##
+  What did: EDA
+  
+  What will do: KPIs and visualizations
+  
+  Blockages: N/A
+  
+## Sara: ##
+  What did: EDA
+  
+  What will do: KPIs and visualizations
+  
+  Blockages: N/A
+  
+## Fahad: ##
+  What did: KPIs
+  
+  What will do: Visualizations in Pandas
+  
+  Blockages: N/A
+  
+## Eniola: ##
+  What did: KPIs
+  
+  What will do: Visualizations in Pandas
+  
+  Blockages: N/A
+
