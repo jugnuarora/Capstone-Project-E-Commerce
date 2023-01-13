@@ -118,3 +118,32 @@
   
   Blockages: N/A
 
+# Day 10 13-Jan-2023 #
+
+## Jugnu: ##
+  What did: Visualizations and KPIs, Problem statement finalize
+  
+  What will do: Problem statement re-finalize using Tableau
+  
+  Blockages: N/A
+  
+## Sara: ##
+  What did: Visualizations and KPIs, Problem statement finalize
+  
+  What will do: Problem statement re-finalize using Tableau
+  
+  Blockages: N/A
+  
+## Fahad: ##
+  What did: Data Visulaizations in Pandas, Problem statement finalize
+  
+  What will do: Problem statement re-finalize using Tableau
+  
+  Blockages: N/A
+  
+## Eniola: ##
+  What did: Data Visulaizations in Pandas, Problem statement finalize
+  
+  What will do: Problem statement re-finalize using Tableau
+  
+  Blockages: N/A
