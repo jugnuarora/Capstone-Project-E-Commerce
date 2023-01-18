@@ -57,3 +57,33 @@
   What will do: Prices and customers
   
   Blockages: N/A
+
+# Day 13 18-Jan-2023 #
+
+## Jugnu: ##
+  What did: Visualizations (exisitng/new customers, first time selling seller/product & recurring selling product)
+  
+  What will do: Visualizations (exisitng/new customers, first time selling seller/product & recurring selling product)
+  
+  Blockages: No further view on how to go ahead
+  
+## Sara: ##
+  What did: Visualizations (product pallette) 
+  
+  What will do: Visualizations (product pallette) 
+  
+  Blockages: No further view on how to go ahead
+  
+## Fahad: ##
+  What did: Story
+  
+  What will do: Story
+  
+  Blockages: No further view on how to go ahead
+  
+## Eniola: ##
+  What did: Data Visulaizations in Pandas
+  
+  What will do: Visualizations on Tableau
+  
+  Blockages: No further view on how to go ahead
