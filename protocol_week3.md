@@ -87,3 +87,33 @@
   What will do: Visualizations on Tableau
   
   Blockages: No further view on how to go ahead
+  
+# Day 14 19-Jan-2023 #
+
+## Jugnu: ##
+  What did: Story creation & Visualizations (exisitng/new customers, first time selling seller/product & recurring selling product)
+  
+  What will do: Visualizations exisitng/new customers buying behaviour
+  
+  Blockages: N/A
+  
+## Sara: ##
+  What did: Story creation & Visualizations (product pallette) 
+  
+  What will do: Visualizations (product pallette) 
+  
+  Blockages: N/A
+  
+## Fahad: ##
+  What did: Story creation
+ 
+  What will do: Visualizations
+  
+  Blockages: N/A
+  
+## Eniola: ##
+  What did: Story Creation
+  
+  What will do: Visualizations on Customer Behaviour
+  
+  Blockages: N/A
