@@ -117,3 +117,33 @@
   What will do: Visualizations on Customer Behaviour
   
   Blockages: N/A
+
+# Day 15 20-Jan-2023 #
+
+## Jugnu: ##
+  What did: Story creation & Visualizations (exisitng/new customers, first time selling seller/product & recurring selling product)
+  
+  What will do: Finalize Visualizations, Stakeholder meeting presentation, KPI tree, Project Title and short description
+  
+  Blockages: Storyline creation
+  
+## Sara: ##
+  What did: Visualizations (product pallette) 
+  
+  What will do: Finalize Visualizations, Stakeholder meeting presentation, KPI tree, Project Title and short description
+  
+  Blockages: Storyline creation
+  
+## Fahad: ##
+  What did: Visualizations
+ 
+  What will do: Finalize Visualizations, Stakeholder meeting presentation, KPI tree, Project Title and short description
+  
+  Blockages: Storyline creation
+  
+## Eniola: ##
+  What did: Visualizations on Customer Behaviour
+  
+  What will do: Finalize Visualizations, Stakeholder meeting presentation, KPI tree, Project Title and short description
+  
+  Blockages: Storyline creation
